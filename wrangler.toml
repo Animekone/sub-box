@@ -26,7 +26,7 @@ DEPLOY_TARGET = "cloudflare"
 [[d1_databases]]
 binding = "DB"
 database_name = "oniisannbox" # Change this to the name of your D1 database
-database_id = "9e605d22-669a-4207-ac93-403635a4aa9b" # wrangler d1 info <YOUR_DATABASE_NAME>
+database_id = "340fa480-5248-46bd-8b29-acaa7dcec874" # wrangler d1 info <YOUR_DATABASE_NAME>
 
 [observability.logs]
 enabled = true
